@@ -1,0 +1,5 @@
+1. The terminal is an interfaced used to execute text based commands.
+
+2. Git is a software version control system that allows you to make and manage changes to programs, documents and other information on your computer while Github is an online repository used by many users to store their code, among other things in centralized place where others can access and interact with it.
+
+3. We use Github because it makes sharing and cooperating on the creation and updating of Code a much more streamlined process. It is also used in the vast majority of professional work environments.
